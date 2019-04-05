@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [CustomEvent.cs](./CS/WpfApplication1/CustomEvent.cs) (VB: [CustomEvent.vb](./VB/WpfApplication1/CustomEvent.vb))
-* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication1/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to bind a scheduler to data via ObjectDataProvider
